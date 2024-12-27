@@ -1,0 +1,1 @@
+export const BaseUrl='https://food-delivery-app-server-envx.onrender.com'
